@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "Jmptable_Regulator_Linear")(type "KiCad")(uri "${KIPRJMOD}/../kicad-parts/symbols/Jmptable_Regulator_Linear.kicad_sym")(options "")(descr ""))
+  (lib (name "Jmptable_Regulator_Switching")(type "KiCad")(uri "${KIPRJMOD}/../kicad-parts/symbols/Jmptable_Regulator_Switching.kicad_sym")(options "")(descr ""))
+  (lib (name "Jmptable_Memory_Flash")(type "KiCad")(uri "${KIPRJMOD}/../kicad-parts/symbols/Jmptable_Memory_Flash.kicad_sym")(options "")(descr ""))
+  (lib (name "Jmptable_Amplifier_Audio")(type "KiCad")(uri "${KIPRJMOD}/../kicad-parts/symbols/Jmptable_Amplifier_Audio.kicad_sym")(options "")(descr ""))
+  (lib (name "Jmptable_Driver_LED")(type "KiCad")(uri "${KIPRJMOD}/../kicad-parts/symbols/Jmptable_Driver_LED.kicad_sym")(options "")(descr ""))
+)
